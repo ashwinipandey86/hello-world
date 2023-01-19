@@ -1,6 +1,6 @@
 <form>
   <label for="fname">First surname:</label><br>
   <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
+  <label for="lname">Last surname:</label><br>
   <input type="text" id="lname" name="lname">
 </form>
